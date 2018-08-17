@@ -5,7 +5,7 @@ package com.ravi.puzzle;
 
 /**
  * @author Ravi Goka
- * @email rgoka@nisum.com
+ * @email ravikumargoka@gmail.com
  * Aug 14, 2018
  */
 public class MyDuplicates {
